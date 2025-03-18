@@ -1,0 +1,14 @@
+C:\Users\Usuario iTC\Documents\Linq_c#\01\Linq_1\Linq_1\bin\Debug\net8.0\Linq_1.exe
+C:\Users\Usuario iTC\Documents\Linq_c#\01\Linq_1\Linq_1\bin\Debug\net8.0\Linq_1.deps.json
+C:\Users\Usuario iTC\Documents\Linq_c#\01\Linq_1\Linq_1\bin\Debug\net8.0\Linq_1.runtimeconfig.json
+C:\Users\Usuario iTC\Documents\Linq_c#\01\Linq_1\Linq_1\bin\Debug\net8.0\Linq_1.dll
+C:\Users\Usuario iTC\Documents\Linq_c#\01\Linq_1\Linq_1\bin\Debug\net8.0\Linq_1.pdb
+C:\Users\Usuario iTC\Documents\Linq_c#\01\Linq_1\Linq_1\obj\Debug\net8.0\Linq_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\Linq_c#\01\Linq_1\Linq_1\obj\Debug\net8.0\Linq_1.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\Linq_c#\01\Linq_1\Linq_1\obj\Debug\net8.0\Linq_1.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\Linq_c#\01\Linq_1\Linq_1\obj\Debug\net8.0\Linq_1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\Linq_c#\01\Linq_1\Linq_1\obj\Debug\net8.0\Linq_1.dll
+C:\Users\Usuario iTC\Documents\Linq_c#\01\Linq_1\Linq_1\obj\Debug\net8.0\refint\Linq_1.dll
+C:\Users\Usuario iTC\Documents\Linq_c#\01\Linq_1\Linq_1\obj\Debug\net8.0\Linq_1.pdb
+C:\Users\Usuario iTC\Documents\Linq_c#\01\Linq_1\Linq_1\obj\Debug\net8.0\Linq_1.genruntimeconfig.cache
+C:\Users\Usuario iTC\Documents\Linq_c#\01\Linq_1\Linq_1\obj\Debug\net8.0\ref\Linq_1.dll
