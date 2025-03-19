@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\01\\Linq_1\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\Linq_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9650776D-793F-4570-A97A-DC6932984770}|Linq2\\Linq2.csproj|c:\\users\\usuario itc\\documents\\linq_c#\\01\\linq_1\\linq2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9650776D-793F-4570-A97A-DC6932984770}|Linq2\\Linq2.csproj|solutionrelative:linq2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E4663E3-0DEA-4F1E-8B01-0221287D53F3}|Linq3\\Linq3.csproj|c:\\users\\usuario itc\\documents\\linq_c#\\linq_1\\linq3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4663E3-0DEA-4F1E-8B01-0221287D53F3}|Linq3\\Linq3.csproj|solutionrelative:linq3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9650776D-793F-4570-A97A-DC6932984770}|Linq2\\Linq2.csproj|c:\\users\\usuario itc\\documents\\linq_c#\\01\\linq_1\\linq2\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9650776D-793F-4570-A97A-DC6932984770}|Linq2\\Linq2.csproj|solutionrelative:linq2\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9650776D-793F-4570-A97A-DC6932984770}|Linq2\\Linq2.csproj|c:\\users\\usuario itc\\documents\\linq_c#\\01\\linq_1\\linq2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9650776D-793F-4570-A97A-DC6932984770}|Linq2\\Linq2.csproj|solutionrelative:linq2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E4663E3-0DEA-4F1E-8B01-0221287D53F3}|Linq3\\Linq3.csproj|c:\\users\\usuario itc\\documents\\linq_c#\\linq_1\\linq3\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E4663E3-0DEA-4F1E-8B01-0221287D53F3}|Linq3\\Linq3.csproj|solutionrelative:linq3\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\01\\Linq_1\\Linq2\\Data.cs",
-              "RelativeDocumentMoniker": "Linq2\\Data.cs",
-              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\01\\Linq_1\\Linq2\\Data.cs",
-              "RelativeToolTip": "Linq2\\Data.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:34:59.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\01\\Linq_1\\Linq2\\Employee.cs",
-              "RelativeDocumentMoniker": "Linq2\\Employee.cs",
-              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\01\\Linq_1\\Linq2\\Employee.cs",
-              "RelativeToolTip": "Linq2\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:34:57.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\01\\Linq_1\\Linq2\\Program.cs",
-              "RelativeDocumentMoniker": "Linq2\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\01\\Linq_1\\Linq2\\Program.cs*",
-              "RelativeToolTip": "Linq2\\Program.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAIAywBwAAAAiAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\Linq_1\\Linq3\\Program.cs",
+              "RelativeDocumentMoniker": "Linq3\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\Linq_1\\Linq3\\Program.cs",
+              "RelativeToolTip": "Linq3\\Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAxwEYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T03:25:54.014Z",
+              "WhenOpened": "2025-03-19T03:27:15.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\Linq_1\\Linq3\\Data.cs",
+              "RelativeDocumentMoniker": "Linq3\\Data.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\Linq_1\\Linq3\\Data.cs",
+              "RelativeToolTip": "Linq3\\Data.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAgwEQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T03:26:29.114Z",
               "EditorCaption": ""
             }
           ]

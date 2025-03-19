@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\01\\Linq_1\\Linq_1\\Linq_1.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\Linq_1\\Linq_1\\Linq_1.csproj",
       "projectName": "Linq_1",
-      "projectPath": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\01\\Linq_1\\Linq_1\\Linq_1.csproj",
+      "projectPath": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\Linq_1\\Linq_1\\Linq_1.csproj",
       "packagesPath": "C:\\Users\\Usuario iTC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\01\\Linq_1\\Linq_1\\obj\\",
+      "outputPath": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\Linq_1\\Linq_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

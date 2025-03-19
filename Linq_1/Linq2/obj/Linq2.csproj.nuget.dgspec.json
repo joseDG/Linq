@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\01\\Linq_1\\Linq2\\Linq2.csproj": {}
+    "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\Linq_1\\Linq2\\Linq2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\01\\Linq_1\\Linq2\\Linq2.csproj": {
+    "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\Linq_1\\Linq2\\Linq2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\01\\Linq_1\\Linq2\\Linq2.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\Linq_1\\Linq2\\Linq2.csproj",
         "projectName": "Linq2",
-        "projectPath": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\01\\Linq_1\\Linq2\\Linq2.csproj",
+        "projectPath": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\Linq_1\\Linq2\\Linq2.csproj",
         "packagesPath": "C:\\Users\\Usuario iTC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\01\\Linq_1\\Linq2\\obj\\",
+        "outputPath": "C:\\Users\\Usuario iTC\\Documents\\Linq_c#\\Linq_1\\Linq2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
